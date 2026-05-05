@@ -1,8 +1,8 @@
 {
   "name": "@feedjar/sdk-web",
-  "version": "0.1.0",
-  "private": true,
-  "description": "FeedJar browser SDK — configure, submit, and list feedback (parity with iOS/Android kits).",
+  "version": "0.0.1",
+  "private": false,
+  "description": "FeedJar browser SDK — configure, submit, and list feedback.",
   "type": "module",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
